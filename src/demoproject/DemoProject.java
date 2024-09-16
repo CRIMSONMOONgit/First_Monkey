@@ -16,6 +16,7 @@ public class DemoProject {
     public static void main(String[] args) {
         System.out.println("hello monkeys ");
         // bruh
+        // 2nd bruh
         // TODO code application logic here
     }
     
